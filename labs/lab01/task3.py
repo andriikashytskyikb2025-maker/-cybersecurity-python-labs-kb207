@@ -22,7 +22,7 @@ class ValidationError(Exception):
 
 #Налаштування
 SALT = str(VARIANT_NUMBER).zfill(5)
-MIN_PASSWORD_LEN = 16
+MIN_PASSWORD_LEN = 12
 DATA_DIR = Path("labs/lab01/data")
 
 
@@ -35,7 +35,7 @@ def generate_hash(password: str, salt: str = "00000") -> str:
             f"Пароль занадто короткий. Мін. довжина: {MIN_PASSWORD_LEN}"
         )
 
-    return hashlib.sha3_256(f"{password}{salt}".encode()).hexdigest()
+    return hashlib.sha3_512(f"{password}{salt}".encode()).hexdigest()
 
 
 #Реєстрація
