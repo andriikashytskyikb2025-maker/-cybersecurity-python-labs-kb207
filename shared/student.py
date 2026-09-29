@@ -1,0 +1,3 @@
+STUDENT_NAME = "Кашицький Андрій"
+GROUP_NAME = "КБ-207"
+VARIANT_NUMBER = 16

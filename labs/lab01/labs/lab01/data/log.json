@@ -1,0 +1,416 @@
+[
+    {
+        "event": "login",
+        "user": "admin_user",
+        "result": "success",
+        "timestamp": "2026-09-22 12:01:07"
+    },
+    {
+        "event": "login",
+        "user": "admin_user",
+        "result": "failure",
+        "timestamp": "2026-09-22 12:01:07"
+    },
+    {
+        "event": "login",
+        "user": "admin_user",
+        "result": "failure",
+        "timestamp": "2026-09-22 12:01:07"
+    },
+    {
+        "event": "login",
+        "user": "admin_user",
+        "result": "success",
+        "timestamp": "2026-09-22 12:10:51",
+        "args": [
+            "admin_user",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "admin_user",
+        "result": "failure",
+        "timestamp": "2026-09-22 12:10:51",
+        "args": [
+            "admin_user",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "admin_user",
+        "result": "failure",
+        "timestamp": "2026-09-22 12:10:51",
+        "args": [
+            "admin_user",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "admin_user",
+        "result": "failure",
+        "timestamp": "2026-09-22 12:14:32",
+        "args": [
+            "admin_user",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "admin_user",
+        "result": "failure",
+        "timestamp": "2026-09-22 12:14:32",
+        "args": [
+            "admin_user",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "admin_user",
+        "result": "failure",
+        "timestamp": "2026-09-22 12:14:32",
+        "args": [
+            "admin_user",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "admin_user",
+        "result": "success",
+        "timestamp": "2026-09-22 12:14:49",
+        "args": [
+            "admin_user",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "admin_user",
+        "result": "failure",
+        "timestamp": "2026-09-22 12:14:49",
+        "args": [
+            "admin_user",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "admin_user",
+        "result": "failure",
+        "timestamp": "2026-09-22 12:14:49",
+        "args": [
+            "admin_user",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "admin_user",
+        "result": "failure",
+        "timestamp": "2026-09-22 12:14:59",
+        "args": [
+            "admin_user",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "admin_user",
+        "result": "failure",
+        "timestamp": "2026-09-22 12:14:59",
+        "args": [
+            "admin_user",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "admin_user",
+        "result": "failure",
+        "timestamp": "2026-09-22 12:14:59",
+        "args": [
+            "admin_user",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "m_kovalenko",
+        "result": "success",
+        "timestamp": "2026-09-22 12:16:13",
+        "args": [
+            "m_kovalenko",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "m_kovalenko",
+        "result": "failure",
+        "timestamp": "2026-09-22 12:16:13",
+        "args": [
+            "m_kovalenko",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "m_kovalenko",
+        "result": "failure",
+        "timestamp": "2026-09-22 12:16:13",
+        "args": [
+            "m_kovalenko",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "",
+        "result": "failure",
+        "timestamp": "2026-09-22 12:16:13",
+        "args": [
+            "",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "m_kovalenko",
+        "result": "success",
+        "timestamp": "2026-09-29 13:06:55",
+        "args": [
+            "m_kovalenko",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "m_kovalenko",
+        "result": "failure",
+        "timestamp": "2026-09-29 13:06:55",
+        "args": [
+            "m_kovalenko",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "m_kovalenko",
+        "result": "failure",
+        "timestamp": "2026-09-29 13:06:55",
+        "args": [
+            "m_kovalenko",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "",
+        "result": "failure",
+        "timestamp": "2026-09-29 13:06:55",
+        "args": [
+            "",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "m_kovalenko",
+        "result": "success",
+        "timestamp": "2026-09-29 13:07:27",
+        "args": [
+            "m_kovalenko",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "m_kovalenko",
+        "result": "failure",
+        "timestamp": "2026-09-29 13:07:27",
+        "args": [
+            "m_kovalenko",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "m_kovalenko",
+        "result": "failure",
+        "timestamp": "2026-09-29 13:07:27",
+        "args": [
+            "m_kovalenko",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "",
+        "result": "failure",
+        "timestamp": "2026-09-29 13:07:27",
+        "args": [
+            "",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "m_kovalenko",
+        "result": "success",
+        "timestamp": "2026-09-29 13:21:48",
+        "args": [
+            "m_kovalenko",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "m_kovalenko",
+        "result": "failure",
+        "timestamp": "2026-09-29 13:21:48",
+        "args": [
+            "m_kovalenko",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "m_kovalenko",
+        "result": "failure",
+        "timestamp": "2026-09-29 13:21:48",
+        "args": [
+            "m_kovalenko",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "",
+        "result": "failure",
+        "timestamp": "2026-09-29 13:21:48",
+        "args": [
+            "",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "m_kovalenko",
+        "result": "success",
+        "timestamp": "2026-09-29 13:24:17",
+        "args": [
+            "m_kovalenko",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "m_kovalenko",
+        "result": "failure",
+        "timestamp": "2026-09-29 13:24:17",
+        "args": [
+            "m_kovalenko",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "m_kovalenko",
+        "result": "failure",
+        "timestamp": "2026-09-29 13:24:17",
+        "args": [
+            "m_kovalenko",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "",
+        "result": "failure",
+        "timestamp": "2026-09-29 13:24:17",
+        "args": [
+            "",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "m_kovalenko",
+        "result": "success",
+        "timestamp": "2026-09-29 13:26:31",
+        "args": [
+            "m_kovalenko",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "m_kovalenko",
+        "result": "failure",
+        "timestamp": "2026-09-29 13:26:31",
+        "args": [
+            "m_kovalenko",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "m_kovalenko",
+        "result": "failure",
+        "timestamp": "2026-09-29 13:26:31",
+        "args": [
+            "m_kovalenko",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "",
+        "result": "failure",
+        "timestamp": "2026-09-29 13:26:31",
+        "args": [
+            "",
+            "***HIDDEN***"
+        ],
+        "kwargs": {}
+    }
+]
