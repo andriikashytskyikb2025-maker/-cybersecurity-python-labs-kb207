@@ -1,0 +1,62 @@
+{
+    "total_entries": 67,
+    "top_error_ips": [
+        {
+            "ip": "203.0.113.99",
+            "total_errors": 17,
+            "statuses": {
+                "401": 1,
+                "400": 4,
+                "404": 9,
+                "403": 2,
+                "500": 1
+            }
+        },
+        {
+            "ip": "192.0.2.11",
+            "total_errors": 7,
+            "statuses": {
+                "401": 3,
+                "500": 1,
+                "400": 2,
+                "404": 1
+            }
+        },
+        {
+            "ip": "192.0.2.10",
+            "total_errors": 4,
+            "statuses": {
+                "500": 2,
+                "403": 1,
+                "400": 1
+            }
+        }
+    ],
+    "detected_attacks": [
+        {
+            "type": "SQLi",
+            "ip": "203.0.113.99",
+            "request": "GET /search?q=1%27%20OR%201%3D1--"
+        },
+        {
+            "type": "Directory Traversal",
+            "ip": "203.0.113.99",
+            "request": "GET /../../etc/passwd"
+        },
+        {
+            "type": "Directory Traversal",
+            "ip": "203.0.113.99",
+            "request": "GET /download?file=../../../etc/shadow"
+        },
+        {
+            "type": "XSS",
+            "ip": "203.0.113.99",
+            "request": "GET /search?q=<script>alert(1)</script>"
+        },
+        {
+            "type": "XSS",
+            "ip": "203.0.113.99",
+            "request": "GET /comment?text=%3Cscript%3Ealert(1)%3C/script%3E"
+        }
+    ]
+}
